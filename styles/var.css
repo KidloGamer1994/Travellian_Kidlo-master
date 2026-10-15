@@ -1,20 +1,10 @@
 :root {
-    --accent-color: #ff7757;
-    --white: #fff;
-    --text-color: #172432;
-    --secondary-color: #767E86;
-    --black: #000;
-    --card-bg: #FFF8F1;
-    --star-color: #FFC107;
-    --btn-color: #FF7654;
-    --comment-card-bg: #F5F6F7;
-
-    --card-border-radius: 26px;
-    --btn-br: 12px;
-
-    --w-title: 84px;
-    --title: 64px;
-    --title-blog: 54px;
-    --subtitle: 24px;
-    --text: 18px;
+    --nav-title: 14px;
+    --w-title: 80px;
+    --title: 20px;
+    --subtitle: 16px;
+    --pacman-title: 30px;
+    --nav-text-color: #404041;
+    --title-color: #222223;
+    --secondary-color: #5F5F64;
 }
